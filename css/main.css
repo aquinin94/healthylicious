@@ -2916,6 +2916,13 @@ input.num-product::-webkit-inner-spin-button {
 
 /*//////////////////////////////////////////////////////////////////
 [ S-Text 0 - 15 ]*/
+.txt-footer {
+  font-family: Lato-Regular;
+  font-size: 18px;
+  line-height: 1.6;
+  /* background-color: #333; */
+  color: white;
+}
 .txt-s-101 {
   font-family: Lato-Regular;
   font-size: 18px;
