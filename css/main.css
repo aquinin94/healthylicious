@@ -456,7 +456,7 @@ line-height: 5%;
 }
 
 .logo img {
-  max-height: 68%;
+  max-height: 100%;
   position:absolute;
   top: 0; 
   left: 0; 
@@ -866,7 +866,7 @@ line-height: 5%;
 .logo-mobile {
   display: block;
   position: relative;
-  height: 65%;
+  height: 100%;
   padding-right: 25px;
   -webkit-flex-grow: 1;
   -moz-flex-grow: 1;
@@ -2927,6 +2927,7 @@ input.num-product::-webkit-inner-spin-button {
   font-family: Lato-Regular;
   font-size: 18px;
   line-height: 1.6;
+  text-align: center;
 }
 
 .txt-s-102 {
@@ -3078,6 +3079,13 @@ input.num-product::-webkit-inner-spin-button {
   line-height: 1.2;
   text-transform: uppercase;
 }
+.txt-m-101b {
+  font-family: Lato-Bold;
+  font-size: 24px;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
 
 .txt-m-102 {
   font-family: Lato-Regular;
