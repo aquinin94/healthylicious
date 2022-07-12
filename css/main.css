@@ -131,6 +131,7 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
 /*------------------------------------------------------------------
 [ Bootstrap ]*/
 
+
 /* When clicked on, add a background color and strike out text */
 ul li.checked {
   background: #888;
@@ -1175,7 +1176,7 @@ margin-top: 0;
 #rev_slider_4 .btn-slide,
 #rev_slider_2 .btn-slide,
 #rev_slider_1 .btn-slide {
-  font-family: Lato-Light;
+  font-family: Lato-Regular;
   font-size: 14px !important;
   color: #fff;
   text-transform: uppercase;
@@ -1406,12 +1407,12 @@ margin-top: 0;
 
 /*---------------------------------------------*/
 #rev_slider_5 .layer1 {
-  font-family: Bitter-Bold;
+  font-family: Lato-Regular;
   letter-spacing: 3px;
 }
 
 #rev_slider_5 .layer2 {
-  font-family: Bitter-Regular;
+  font-family: Lato-Regular;
   letter-spacing: 2px;
 }
 
@@ -3177,7 +3178,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .txt-m-115 {
   font-family: Lato-Regular;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.5;
 }
 
