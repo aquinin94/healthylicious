@@ -1895,22 +1895,22 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .item-welcome.one {
-  top: 35%;
+  top:  0;
   left: 0;
 }
 
 .item-welcome.two {
-  top: 0;
-  left: 25%;
+  top:  0;
+  left: 27%;
 }
 
 .item-welcome.three {
-  top: 0;
-  right: 25%;
+  top:   0;
+  right: 27%;
 }
 
 .item-welcome.four {
-  top: 35%;
+  top:   0;
   right: 0;
 }
 
@@ -3017,7 +3017,7 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .txt-s-115 {
-  font-family: Lato-Light;
+  font-family: Lato-Regular;
   font-size: 15px;
   line-height: 1.5;
 }
@@ -3079,13 +3079,13 @@ input.num-product::-webkit-inner-spin-button {
 /*//////////////////////////////////////////////////////////////////
 [ M-Text 16 - 25 ]*/
 .txt-m-101 {
-  font-family: Lato-Bold;
+  font-family: Lato-Regular;
   font-size: 20px;
   line-height: 1.2;
   text-transform: uppercase;
 }
 .txt-m-101b {
-  font-family: Lato-Bold;
+  font-family: Lato-Regular;
   font-size: 24px;
   line-height: 1.2;
   text-transform: uppercase;
@@ -3177,8 +3177,8 @@ input.num-product::-webkit-inner-spin-button {
 
 .txt-m-115 {
   font-family: Lato-Regular;
-  font-size: 16px;
-  line-height: 1.875;
+  font-size: 20px;
+  line-height: 1.5;
 }
 
 .txt-m-116 {
@@ -3283,7 +3283,7 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .txt-m-401 {
-  font-family: Courgette-Regular;
+  font-family: Lato-Regular;
   font-size: 20px;
   line-height: 1.5;
 }
@@ -3299,7 +3299,7 @@ input.num-product::-webkit-inner-spin-button {
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
 .txt-l-101 {
-  font-family: Lato-Black;
+  font-family: Lato-Regular;
   font-size: 42px;
   line-height: 1.2;
   text-transform: uppercase;
@@ -3400,7 +3400,7 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .txt-l-401 {
-  font-family: Courgette-Regular;
+  font-family: Lato-Regular;
   font-size: 42px;
   line-height: 1.2;
 }
