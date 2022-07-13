@@ -14,7 +14,7 @@ if( isset($_POST['name']) && isset($_POST['email']) && isset($_POST['msg'])){
     if (MAIL_HOST != null) {
         $to = MAIL_HOST;
     } else {
-        $to = "lebach.tk@gmail.com";
+        $to = "isc.aquinovazquezsergioalan@gmail.com";
     }
     $from = $email;
     if (MAIL_TITLE != null) {
